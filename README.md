@@ -15,6 +15,7 @@
 <td>
  
 * #### [CSS Button Generator](https://www.css3buttongenerator.com/)
+* #### [Social Buttons for Bootstrap](https://lipis.github.io/bootstrap-social/)
 * #### [Icons: the noun project](https://thenounproject.com/)
 * #### [Pure CSS Social Media Icons](https://codepen.io/laurenclark/pen/hGiqo)
 * #### [Illustrations: undraw](https://undraw.co/illustrations)
@@ -114,23 +115,34 @@
 
 * #### [React Hooks Examples](https://codesandbox.io/s/reverent-hellman-6pbp8)
 * #### [Use Effect vs componentDidMount](https://stackoverflow.com/questions/53945763/componentdidmount-equivalent-on-a-react-function-hooks-component)
-* #### [dev.to](https://dev.to/)
+
 
 
 * #### [App Brewery: Web Development Resources](https://www.appbrewery.co/p/web-development-course-resources/)
 * #### [Brian Holt: Complete intro to React -v6 Repo](https://github.com/btholt/citr-v6-project)
-* #### [Social Buttons for Bootstrap](https://lipis.github.io/bootstrap-social/)
 
 
 
 
 
 
-# sa
+
+# Fun
 
 * #### [Wayback Machine](https://web.archive.org/)
 * #### [Unicode Table](https://unicode-table.com/)
+* #### [Binary Search Tree](https://www.cs.usfca.edu/~galles/visualization/BST.html)
+* #### [sha256 Hash Generator](https://passwordsgenerator.net/sha256-hash-generator/)
+* #### [Internet Live Stats](https://www.internetlivestats.com/)
+* #### [Minify](https://www.minifier.org/)
+* #### [Any API](https://any-api.com/)
+* #### [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
+* #### [dev.to](https://dev.to/)
 
+
+* #### []()
+* #### []()
+* #### []()
 * #### []()
 * #### []()
 * #### []()
