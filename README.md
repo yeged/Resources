@@ -13,12 +13,16 @@
 </tr>
 <tr>
 <td>
-  
+ 
+* #### [CSS Button Generator](https://www.css3buttongenerator.com/)
 * #### [Icons: the noun project](https://thenounproject.com/)
+* #### [Pure CSS Social Media Icons](https://codepen.io/laurenclark/pen/hGiqo)
 * #### [Illustrations: undraw](https://undraw.co/illustrations)
 * #### [Fonts](https://fonts.google.com/specimen/Roboto)
+* #### [CSS Font Stack](https://www.cssfontstack.com/)
 * #### [Color Generator: coolors](https://coolors.co/)
 * #### [Figma](https://www.figma.com/file/SUmUcxBaV4hnxqsUemiT6r/Buttons?node-id=1%3A383)
+* #### [Discover the world’s top designers & creatives: dribble](https://dribbble.com/)
   
 </td>
 <td>
@@ -49,7 +53,8 @@
 <th>Free Code Camp</th>
 <th>Courses</th>
 <th>IDEs</th>
-<th>Tailwind Css</th>
+<th>External Packages</th>
+<th>Live Preview</th>
 </tr>
 <tr>
 <td>
@@ -78,23 +83,37 @@
 * #### [Codesandbox](https://codesandbox.io/)
 * #### [Codepen](https://codepen.io/)
 * #### [Repl-it](https://replit.com/)
+* #### [Codeply](https://www.codeply.com/)
     
 </td>
   <td>
+    
+### Routers
+* #### [React Router Quick Start](https://reactrouter.com/web/guides/quick-start)
+* #### [Reach Router Tutorial](https://reach.tech/router/tutorial/02-installation)
+    
+### Redux
+* #### [Redux Fundamentals, Part 5: UI and React](https://redux.js.org/tutorials/fundamentals/part-5-ui-react)
+* #### [React Redux Blog](https://blog.jakoblind.no/react-redux-hooks/)
+* #### [React Redux Form](https://davidkpiano.github.io/react-redux-form/docs.html)
+* #### [Redux Thunk](https://stackoverflow.com/questions/50059724/how-do-i-resolve-actions-must-be-plain-objects-use-custom-middleware-for-async/54066862)
+
+</td>
+  
+<td>
+
+* #### [Vercel](https://vercel.com/dashboard)
+* #### [Netlify](https://www.netlify.com/)
+* #### [Heroku](https://www.heroku.com/)
+    
 </td>
 </table>
 
 
 # React
-* #### [React Router Quick Start](https://reactrouter.com/web/guides/quick-start)
+
 * #### [React Hooks Examples](https://codesandbox.io/s/reverent-hellman-6pbp8)
 * #### [Use Effect vs componentDidMount](https://stackoverflow.com/questions/53945763/componentdidmount-equivalent-on-a-react-function-hooks-component)
-* #### [React Redux Form](https://davidkpiano.github.io/react-redux-form/docs.html)
-* #### [Redux Thunk](https://stackoverflow.com/questions/50059724/how-do-i-resolve-actions-must-be-plain-objects-use-custom-middleware-for-async/54066862)
-* #### [Redux Fundamentals, Part 5: UI and React](https://redux.js.org/tutorials/fundamentals/part-5-ui-react)
-* #### [React Redux Blog](https://blog.jakoblind.no/react-redux-hooks/)
-
-
 * #### [dev.to](https://dev.to/)
 
 
@@ -104,17 +123,14 @@
 
 
 
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
+
+
+
+# sa
+
+* #### [Wayback Machine](https://web.archive.org/)
+* #### [Unicode Table](https://unicode-table.com/)
+
 * #### []()
 * #### []()
 * #### []()
