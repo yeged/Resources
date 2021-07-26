@@ -140,7 +140,7 @@
 * #### [Internet Live Stats](https://www.internetlivestats.com/)
 * #### [Wayback Machine](https://web.archive.org/)
 * #### [sha256 Hash Generator](https://passwordsgenerator.net/sha256-hash-generator/)
-* #### [Rehber Bul](https://rehber-2e983.web.app/search?uid=j60MvZYpnzWDxmWNE8sKcdzdUfd2)
+* #### [Rehber Bul](https://rehber-2e983.web.app/)
 
 </td>
  <td>
