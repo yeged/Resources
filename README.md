@@ -8,7 +8,6 @@
 <tr>
 <th>Assets</th>
 <th>React Styling && Packages</th>
-<th>Primary Button</th>
 <th>Tailwind Css</th>
 </tr>
 <tr>
@@ -42,12 +41,10 @@
 </td>
   <td>
 </td>
-  <td>
-</td>
 </table>
 
 
-# sa
+# Courses - IDEs - Packages - Servers
 
 <table>
 <tr>
@@ -74,6 +71,7 @@
 * #### [FreeCodeCamp](https://www.freecodecamp.org/)
 * #### [Frontendmasters](https://frontendmasters.com/)
 * #### [Coursera](https://www.coursera.org/)
+* #### [Scrimba](https://scrimba.com/)
 * #### [WesBos/Courses](https://wesbos.com/courses)
 * #### [WesBos](https://courses.wesbos.com/account)
 
@@ -111,43 +109,54 @@
 </table>
 
 
-# React
+# Web Development
 
+* ### [App Brewery: Web Development Resources](https://www.appbrewery.co/p/web-development-course-resources/)
+<table>
+<tr>
+<th>React</th>
+</tr>
+<td>
+
+* #### [Brian Holt: Complete intro to React -v6 Repo](https://github.com/btholt/citr-v6-project)
 * #### [React Hooks Examples](https://codesandbox.io/s/reverent-hellman-6pbp8)
 * #### [Use Effect vs componentDidMount](https://stackoverflow.com/questions/53945763/componentdidmount-equivalent-on-a-react-function-hooks-component)
 
+</td>
+</table>
 
 
-* #### [App Brewery: Web Development Resources](https://www.appbrewery.co/p/web-development-course-resources/)
-* #### [Brian Holt: Complete intro to React -v6 Repo](https://github.com/btholt/citr-v6-project)
+# Others
 
+<table>
+<tr>
+<th>Fun</th>
+<th>Extra</th>
+</tr>
+<tr>
+<td>
 
-
-
-
-
-
-# Fun
-
-* #### [Wayback Machine](https://web.archive.org/)
-* #### [Unicode Table](https://unicode-table.com/)
-* #### [Binary Search Tree](https://www.cs.usfca.edu/~galles/visualization/BST.html)
-* #### [sha256 Hash Generator](https://passwordsgenerator.net/sha256-hash-generator/)
+* #### [Drive And Listen](https://driveandlisten.herokuapp.com/)
 * #### [Internet Live Stats](https://www.internetlivestats.com/)
-* #### [Minify](https://www.minifier.org/)
+* #### [Wayback Machine](https://web.archive.org/)
+* #### [sha256 Hash Generator](https://passwordsgenerator.net/sha256-hash-generator/)
+* #### [Rehber Bul](https://rehber-2e983.web.app/search?uid=j60MvZYpnzWDxmWNE8sKcdzdUfd2)
+
+</td>
+ <td>
+  
 * #### [Any API](https://any-api.com/)
 * #### [daily.dev](https://chrome.google.com/webstore/detail/dailydev-the-homepage-dev/jlmpjdjjbgclbocgajdjefcidcncaied)
 * #### [dev.to](https://dev.to/)
+* #### [Binary Search Tree](https://www.cs.usfca.edu/~galles/visualization/BST.html)
+* #### [Minify](https://www.minifier.org/)
+* #### [Unicode Table](https://unicode-table.com/)
+ </td>
+</table>
 
 
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
-* #### []()
+
+
+
 * #### []()
 * #### []()
