@@ -115,12 +115,36 @@
 <table>
 <tr>
 <th>React</th>
+ <th>Forms && Validations</th>
+ <th>Testing</th>
 </tr>
 <td>
 
 * #### [Brian Holt: Complete intro to React -v6 Repo](https://github.com/btholt/citr-v6-project)
 * #### [React Hooks Examples](https://codesandbox.io/s/reverent-hellman-6pbp8)
 * #### [Use Effect vs componentDidMount](https://stackoverflow.com/questions/53945763/componentdidmount-equivalent-on-a-react-function-hooks-component)
+* #### [Portals](https://tr.reactjs.org/docs/portals.html)
+* #### [Portal Modal Example](https://github.com/yeged/Adopt-Me-with-React/blob/master/src/Modal.js)
+* #### [use Context API](https://tr.reactjs.org/docs/context.html)
+
+</td>
+ <td>
+
+* #### [Formik](https://formik.org/)
+* #### [React Hook Form](https://react-hook-form.com/)
+  ### Validation Schema
+* #### [Yup](https://www.npmjs.com/package/yup?activeTab=readme)
+* #### [Joi](https://www.npmjs.com/package/joi)
+
+</td>
+  <td>
+  
+* #### [React Testing Library](https://testing-library.com/docs/react-testing-library/intro/)
+  ### Test Runners
+* #### [Jest.js](https://jestjs.io/)
+* #### [Enzyme.js](https://enzymejs.github.io/enzyme/)
+  ### E2E
+* #### [Puppeteer](https://pptr.dev/)
 
 </td>
 </table>
@@ -151,6 +175,7 @@
 * #### [Binary Search Tree](https://www.cs.usfca.edu/~galles/visualization/BST.html)
 * #### [Minify](https://www.minifier.org/)
 * #### [Unicode Table](https://unicode-table.com/)
+* #### [Log Rocket](https://logrocket.com/)
  </td>
 </table>
 
