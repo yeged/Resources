@@ -4,6 +4,7 @@
 * #### [BLOG: Imperative vs Declerative](https://ui.dev/imperative-vs-declarative-programming)
 * #### [BLOG: Understanding React's key prop](https://kentcdodds.com/blog/understanding-reacts-key-prop)
 * #### [BLOG: Why React needs a key prop](https://epicreact.dev/why-react-needs-a-key-prop/)
+* #### [React Key Prop](https://react-fundamentals.netlify.app/isolated/final/07.extra-1.js)
 * #### [COMPILER: Babel Js](https://babeljs.io/repl#?browsers=defaults%2C%20not%20ie%2011%2C%20not%20ie_mob%2011&build=&builtIns=App&corejs=3.21&spec=false&loose=false&code_lz=MYewdgzgLgBArgSxgXhgHgCYIG4D40QAOAhmLgBICmANtSGgPRGm7rNkDqIATtRo-3wMseAFBA&debug=false&forceAllTransforms=false&shippedProposals=false&circleciRepo=&evaluate=false&fileSize=false&timeTravel=false&sourceType=module&lineWrap=true&presets=react&prettier=true&targets=&version=7.18.3&externalPlugins=&assumptions=%7B%7D): Pro tip: If you’d like to see how JSX gets compiled to JavaScript, check out the online babel REPL here.
 * #### [OTHERS: UNPKG](https://unpkg.com/): unpkg is a fast, global content delivery network for everything on npm. Use it to quickly and easily load any file from any package using a URL 
 
