@@ -1,3 +1,85 @@
+# Packages && Libraries
+
+<table>
+<tr>
+<th>React Query</th>
+<th>Resources</th>
+</tr>
+<tr>
+<td>
+
+### Query Config
+
+```
+const queryConfig: DefaultOptions = {
+ queries: {
+   refetchOnWindowsFocus: false,
+   retry: false,
+   cacheTime: 0
+ }
+}
+```
+ 
+### useQuery
+ 
+```
+const useSomething = (...params): QueryObserverResult<TData, TError> => {
+ const fetch: QueryFunction<T> = async () => return; //TData
+ 
+ return useQuery(['key', ...params], fetch, {
+  enabled: true, 
+  cacheTime: 5 * 1000 * 60, 
+  staleTime: 5 * 1000 * 60
+ })
+}
+
+const {data} = useSomething(...params)
+```
+
+### useMutation
+ 
+```
+const useSomethingValidate = (): UseMutationResult<TData, TError, TVariables> => {
+ return useMutation<TData, TError, TVariables>( async (variables) => {
+   return; // TData
+ }
+}
+
+await useSomethingValidate().mutateAsync({...variables})
+```
+  
+</td>
+<td>
+
+### React Query
+ * #### [useQuery](https://react-query.tanstack.com/reference/useQuery)
+ * #### [useMutation](https://react-query.tanstack.com/reference/useMutation)
+
+### i18Next
+ * #### [i18Next Repo](https://github.com/yeged/React-i18next)
+
+### Mock Service Worker
+* #### [Msw Getting Started](https://mswjs.io/docs/getting-started/install)
+* #### [Msw Examples](https://github.com/mswjs/examples)
+
+### Recoil
+ * #### [Recoil Repo](https://github.com/yeged/React-Recoil)
+
+### Styled Components
+* #### [Styled Components Repo](https://github.com/yeged/React-Styled-Components)
+
+### Npm Serve
+ * #### [Static Server](https://create-react-app.dev/docs/deployment/#static-server)
+```
+"scripts": {
+    "prod": "npm run-script build 
+    && serve -s build"
+}
+```
+</td>
+
+</table>
+
 
 # Resources
 
